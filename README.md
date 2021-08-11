@@ -1,6 +1,6 @@
 # Inbox Smart Contract
 Creation of a eth smart contract on Rinkeby Test Network using Solidity and JS. Also the usage of web3, ganache, mocha and truffle-hdwallet-provider.
-The account and infura url are hidden, but u can use your own to test the code.
+The account and infura url are hidden in the deploy.js file, but u can use your own to test the code.
 
 Check the actual contract deployed in https://rinkeby.etherscan.io
 
